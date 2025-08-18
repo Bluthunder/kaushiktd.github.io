@@ -1,0 +1,8 @@
+title: "Kaushik T D Roy"
+description: "AI/ML Engineer Portfolio"
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
+
+github_username: "kaushiktd"
+linkedin_username: "kaushiktd"
