@@ -27,7 +27,7 @@ feature_row:
     excerpt: "A Machine Learning model training and deployment pipeline for a Bike Share Rental System. This project automates the entire ML workflow, from training to API deployment using GitHub Actions, FastAPI, Docker, and Pytest."
     url: "https://github.com/Bluthunder/BIKESHARE_PROJECT"
     btn_label: "Read More"
-    btn_class: "btn--primary
+    btn_class: "btn--primary"
     
   - image_path: /assets/images/housing.
 
