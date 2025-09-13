@@ -6,3 +6,6 @@ plugins:
 
 github_username: "kaushiktd"
 linkedin_username: "kaushiktd"
+
+include:
+  - _pages
