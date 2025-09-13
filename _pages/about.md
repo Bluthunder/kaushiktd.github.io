@@ -9,7 +9,7 @@ classes: wide
 
   <!-- Profile Image -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/profile.png" alt="Profile photo" style="border-radius: 12px; max-width: 300px;">
+    <img src="profile.png" alt="Profile photo" style="border-radius: 12px; max-width: 300px;">
   </div>
 
   <!-- Intro -->
@@ -30,7 +30,7 @@ classes: wide
     </p>
 
     <p>
-      A big part of my journey is thanks to my <strong>wife</strong> — a brilliant developer herself.  
+      A big part of my journey is thanks to my wife — a brilliant developer herself.  
       We spend a lot of time brainstorming ideas, exploring new technologies, and pushing each other to excel.  
       She’s been a huge support in my learning and growth, making this journey even more rewarding.
     </p>
