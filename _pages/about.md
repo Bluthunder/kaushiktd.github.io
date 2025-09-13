@@ -9,12 +9,12 @@ classes: wide
 
   <!-- Profile Image -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/profile.jpg" alt="Profile photo" style="border-radius: 12px; max-width: 300px;">
+    <img src="/assets/images/bike.png" alt="Profile photo" style="border-radius: 12px; max-width: 300px;">
   </div>
 
   <!-- Intro -->
   <div style="flex: 2; min-width: 280px;">
-    <h2>Hi, I’m Kaushik 👋</h2>
+    <h2>Hi, I’m Kaushik </h2>
     <p>
       I’m a <strong>Developer</strong> with 12+ years of experience across
       <strong>AI/ML, Tooling, Framework development, performance engineering, SRE and observability</strong>.  
