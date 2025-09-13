@@ -2,9 +2,10 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: /about/
+    url: /_pages/about.md
   - title: "Projects"
     url: "https://github.com/Bluthunder?tab=repositories"
     external: true
   - title: "Blog"
-    url: /blog/
+    url: "https://medium.com/@kaushiktd"
+    external: true
