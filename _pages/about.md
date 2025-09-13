@@ -9,7 +9,7 @@ classes: wide
 
   <!-- Profile Image -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="/assets/images/bike.png" alt="Profile photo" style="border-radius: 12px; max-width: 300px;">
+    <img src="/assets/images/profile.png" alt="Profile photo" style="border-radius: 12px; max-width: 300px;">
   </div>
 
   <!-- Intro -->
@@ -30,24 +30,44 @@ classes: wide
     </p>
 
     <p>
+      A big part of my journey is thanks to my <strong>wife</strong> — a brilliant developer herself.  
+      We spend a lot of time brainstorming ideas, exploring new technologies, and pushing each other to excel.  
+      She’s been a huge support in my learning and growth, making this journey even more rewarding.
+    </p>
+
+    <p>
       Outside of work, you’ll find me exploring <em>trekking trails, boxing, photography</em>
       (especially wildlife & landscapes), or experimenting with new recipes in the kitchen 🍳.
     </p>
 
     <!-- Social Links -->
-    <div style="margin-top: 1.5rem;">
-      <a href="https://www.linkedin.com/in/kaushiktd/" target="_blank" style="margin-right: 12px;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/linkedin.svg" alt="LinkedIn" width="28" />
+    <div style="margin-top: 1.5rem; display: flex; gap: 16px; align-items: center;">
+
+      <!-- LinkedIn -->
+      <a href="https://www.linkedin.com/in/kaushiktd/" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+             alt="LinkedIn" width="32" />
       </a>
-      <a href="mailto:kaushiktd@gmail.com" target="_blank" style="margin-right: 12px;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/maildotru.svg" alt="Email" width="28" />
+
+      <!-- Email -->
+      <a href="mailto:kaushiktd@gmail.com" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" 
+             alt="Email" width="32" 
+             style="filter: invert(39%) sepia(76%) saturate(5341%) hue-rotate(357deg) brightness(97%) contrast(107%);" />
       </a>
-      <a href="https://twitter.com/kaushiktd" target="_blank" style="margin-right: 12px;">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/twitter.svg" alt="Twitter" width="28" />
+
+      <!-- Twitter -->
+      <a href="https://twitter.com/kaushiktd" target="_blank">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" 
+             alt="Twitter" width="32" />
       </a>
+
+      <!-- GitHub -->
       <a href="https://github.com/Bluthunder" target="_blank">
-        <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/github.svg" alt="GitHub" width="28" />
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+             alt="GitHub" width="32" />
       </a>
+
     </div>
   </div>
 </div>
