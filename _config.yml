@@ -9,3 +9,6 @@ linkedin_username: "kaushiktd"
 
 include:
   - _pages
+
+baseurl: "/kaushiktd.github.io"
+url: "https://bluthunder.github.io"

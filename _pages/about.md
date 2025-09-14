@@ -9,7 +9,7 @@ classes: wide
 
   <!-- Profile Image -->
   <div style="flex: 1; min-width: 250px;">
-    <img src="profile.png" alt="Profile photo" style="border-radius: 12px; max-width: 300px;">
+    <img src="{{ site.baseurl }}/assets/images/profile.png" alt="Profile photo" style="border-radius: 12px; max-width: 300px;">
   </div>
 
   <!-- Intro -->
